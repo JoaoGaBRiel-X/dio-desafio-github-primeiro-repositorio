@@ -2,4 +2,4 @@
 Desafio de projeto Git/Github - Bootcamp .NET Localiza
 
 ## Links Úteis
-[Sintaxe Basica Markdown (https://www.markdownguide.org/basic-syntax/)]
+[Sintaxe Basica Markdown] (https://www.markdownguide.org/basic-syntax/)
